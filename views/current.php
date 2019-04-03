@@ -13,15 +13,15 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/echris.jpg" alt="">
+     					  <h6>Christian Emenike</h6>
+                 <p>An ardict learner and aspiring innovative change maker and tech advocate.</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://www.twitter.com/ccemenike" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://www.github.com/mysterioux" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://ccemenike.netlify.com" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="/interns/echris" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
