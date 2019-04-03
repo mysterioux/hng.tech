@@ -8,7 +8,7 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="../../app/img/echris.jpg" alt="christian Emenike">
+                        <img src="https://res.cloudinary.com/echris/image/upload/v1554319919/personal/photo.jpg" alt="christian Emenike">
                         <h6>Christian Emenike</h6>
                         <p>Full Stack Engineer</p>
                         <ul class="list">
